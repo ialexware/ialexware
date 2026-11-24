@@ -7,7 +7,6 @@
 With **12+ years of experience**, I've worked across logistics, airline e-commerce, identity security, and audit analytics. My background combines hands-on development, technical leadership, and mentoring—with a focus on understanding the operation behind the software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/ialexware/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=flat-square)](mailto:ialexware@outlook.com)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=flat-square)](mailto:info@ialexware.com)
 
 ---
@@ -68,7 +67,6 @@ Much of my professional experience comes from enterprise platforms in private re
 
 Interested in discussing **Senior Full Stack, Senior .NET, or Technical Lead** opportunities? I'd be happy to talk about the product, the team, and the engineering challenges.
 
-**[LinkedIn](https://www.linkedin.com/in/ialexware/) · [ialexware@outlook.com](mailto:ialexware@outlook.com)**
 **[LinkedIn](https://www.linkedin.com/in/ialexware/) · [info@ialexware.com](mailto:info@ialexware.com)**
 
 *También podemos conversar en español.*
