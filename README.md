@@ -8,10 +8,11 @@ With **12+ years of experience**, I've worked across logistics, airline e-commer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/ialexware/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=flat-square)](mailto:ialexware@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=flat-square)](mailto:info@ialexware.com)
 
 ---
 
-## What I bring to a team
+## 🎯 What I bring to a team
 
 - **Full-stack delivery:** C#/.NET APIs, Angular and React interfaces, SQL data models, integrations, and automated tests.
 - **Cloud modernization:** experience moving legacy functionality to AWS Lambda and building enterprise integrations on Azure.
@@ -19,7 +20,7 @@ With **12+ years of experience**, I've worked across logistics, airline e-commer
 - **Technical leadership:** translating requirements into development tasks, coordinating delivery and knowledge transfer, and mentoring engineers.
 - **AI-assisted engineering:** using coding agents with clear specifications, repository guidance, code review, and test validation.
 
-## Selected experience
+## 💼 Selected experience
 
 **Audit analytics · Hexaware Technologies**  
 Developed .NET and React/TypeScript features for a platform supporting risk assessment and audit execution across multiple regions. Worked with Azure integrations, CI/CD, and AI-assisted development workflows using Factory Droid, GPT, Claude, and MCP.
@@ -36,7 +37,16 @@ Upgraded an application from **Angular 13 to Angular 15**, analyzed AngularJS co
 **Warehouse management · Grupo Logistics**  
 Helped build a **WMS serving 30+ companies** across web, PWA, and Android. Developed .NET, Angular, and Ionic functionality, SQL Server data models, dashboards, and customer/supplier integrations using APIs and EDI messages.
 
-## Core toolkit
+## 🛠️ Core toolkit
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
 | Area | Technologies |
 | --- | --- |
@@ -48,16 +58,17 @@ Helped build a **WMS serving 30+ companies** across web, PWA, and Android. Devel
 | **Observability** | Datadog, Application Insights |
 | **AI-assisted development** | Factory Droid, GPT, Claude, MCP, agent instructions and code validation |
 
-## How I work
+## 🧭 How I work
 
 I start by understanding the business workflow, turn requirements into clear implementation steps, and validate changes through review and testing. I enjoy connecting backend, frontend, and integrations—and helping teammates understand how the pieces fit together.
 
 Much of my professional experience comes from enterprise platforms in private repositories. The highlights above describe that work; my public GitHub is a place for personal projects and exploration.
 
-## Let's connect
+## 📫 Let's connect
 
 Interested in discussing **Senior Full Stack, Senior .NET, or Technical Lead** opportunities? I'd be happy to talk about the product, the team, and the engineering challenges.
 
 **[LinkedIn](https://www.linkedin.com/in/ialexware/) · [ialexware@outlook.com](mailto:ialexware@outlook.com)**
+**[LinkedIn](https://www.linkedin.com/in/ialexware/) · [info@ialexware.com](mailto:info@ialexware.com)**
 
 *También podemos conversar en español.*
